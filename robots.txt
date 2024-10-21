@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nethelest.github.io/nethelest.txt.gz
+Sitemap: https://nethelest.github.io/app/nethelest.txt.gz
+Sitemap: https://nethelest.github.io/assets/nethelest.txt.gz
+Sitemap: https://nethelest.github.io/css/nethelest.txt.gz
+Sitemap: https://nethelest.github.io/includes/nethelest.txt.gz
+Sitemap: https://nethelest.github.io/item/nethelest.txt.gz
+Sitemap: https://nethelest.github.io/src/nethelest.txt.gz
